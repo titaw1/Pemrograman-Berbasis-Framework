@@ -4,9 +4,9 @@ import './Login.css';
 const Login = () => {
   return (
     <body>      
-      <h4 class="title">Form Login</h4>      
+      <h4 class="top-title">Form Login</h4>      
       <div class="container">
-        <h3 class="text-title">Tugas Pertemuan<br></br>Ketiga</h3>
+        <h3 class="title">Tugas Pertemuan<br/>Ketiga</h3>
         <form class="login_form" action="" method="post" name="form">
           <div class="group">
             <label>Username</label> 

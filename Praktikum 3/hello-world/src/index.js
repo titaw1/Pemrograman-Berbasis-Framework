@@ -4,8 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { render } from '@testing-library/react';
-import HelloComponent from './HelloComponent';
-import LoginComponent from './Login';
+import HelloComponent from './component/HelloComponent';
+import LoginComponent from './component/Login';
 
 // function HelloComponent() {
 //   return HelloComponent
