@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "userId": 1,
+      "id": 1,
+      "title": "Workshop Amazon Web Services (AWS) Untuk Para Dosen Jurusan Teknologi Informasi Politeknik Negeri Malang",
+      "body": "Jumat (24/1/2020), Jurusan Teknologi Informasi Politeknik Negeri Malang (JTI Polinema) menyelenggarakan workshop tentang Amazon Web Services (AWS) yang bertempat di Lantai 7, Ruang LKJ 2, Gedung Teknik Sipil Polinema. Workshop ini diadakan untuk menunjang performa dan..."
+    },
+    {
+      "userId": 1,
+      "id": 2,
+      "title": "Pelaksanaan Rapat Hasil Akhir Yudisium Semester Ganjil 2019/2020",
+      "body": "Jumat (17/1/20) kemarin, Jurusan Teknologi Informasi Politeknik Negeri Malang (JTI Polinema) menyelenggarakan rapat hasil yudisium semester ganjil tahun ajaran 2019/2020. Acara ini dimulai pada jam 8.30 dan bertempat di lantai 8, Gedung Teknik Sipil, Politeknik Negeri..."
+    },
+    {
+      "userId": 1,
+      "id": 1647364405477,
+      "title": "Jurusan TI Polinema PEMILIHAN WAKIL SENAT JURUSAN TEKNOLOGI INFORMASI (JTI) POLITEKNIK NEGERI MALANG (POLINEMA) PERIODE 2022-2026",
+      "body": "MALANG – Pemilihan wakil senat Jurusan Teknologi Informasi (JTI) Politeknik Negeri Malang (Polinema) Periode 2022-2026 telah diselenggarakan pada tanggal 17 Januari 2022. Acara ini dihadiri oleh Ketua Jurusan Teknologi Informasi yaitu Bapak Rudy Ariyanto, ST, M.Cs, Sekretaris Jurusan Teknologi Informasi yaitu DR. Eng. Rosa Andrie Asmara, ST, MT, Ketua Program Studi D-IV Teknik Informatika yaitu Bapak Imam Fahrur Rozi, ST., MT, Ketua Program Studi D-III Manajemen Informatika yaitu Bapak Hendra Pradibta, SE., M.Sc, dan para dosen JTI Polinema. Kegiatan ini bertempat di ruang Auditorium lantai 6 gedung Sipil-TI."
+    },
+    {
+      "userId": 1,
+      "id": 1647364625842,
+      "title": "7 Besar Kategori PKM GT Akan Masuk Proses Bootcamp Dalam Rocket Jump School",
+      "body": "15 Januari 2022 telah terlaksana lomba Internal Competition Jurusan Teknologi Informasi 2021, bertempat di ruang Auditorium lantai 6 gedung Sipil-TI. Lomba ini memiliki beberapa kategori, meliputi: Inovasi Aplikasi, PKM-GT, English Writing, Bisnis IT, dan Keamanan Jaringan. Untuk peserta PKM GT Internal Competition tersebut akan masuk proses selanjutnya yaitu Bootcamp dalam Rocket Jump School. Rocket Jump School merupaka program persiapan soft skill talent bagi mahasiswa yang komprehensif untuk meningkatkan kompetensi mahasiswa, agar dapat mencapai hasil kerja terbaik dan meningkatkan performa skill di karir profesional dalam proses pengembangan karir di masa depan. Adapun beberapa benefit dari Rocket Jump School tersebut antara lain pembelajaran yang relevan, ubah aspirasi jadi aktif, kreativitas tanpa batas, dan bangun serta perluas koneksi."
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
