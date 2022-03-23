@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nim": 1941720001,
+      "nama": "Tita Wijayanti",
+      "alamat": "Jl. Semanggi No. 18",
+      "hp": "081237675890",
+      "angkatan": 2019,
+      "status": "aktif"
+    },
+    {
+      "id": 1647366795407,
+      "nama": "Fifit Lia",
+      "nim": "1941720909",
+      "alamat": "Jl. Sigura-Gura No. 40",
+      "hp": "081736849264",
+      "angkatan": "2020",
+      "status": "Aktif"
+    }
+  ]
+}

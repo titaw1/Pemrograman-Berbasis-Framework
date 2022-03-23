@@ -6,10 +6,18 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 
 import BlogPost from "./container/BlogPost/BlogPost";
+import BlogMahasiswa from './container/Mahasiswa/Mahasiswa';
+
+// ReactDOM.render(
+//   <React.StrictMode>
+//     <BlogPost />
+//   </React.StrictMode>,
+//   document.getElementById('root')
+// );
 
 ReactDOM.render(
   <React.StrictMode>
-    <BlogPost />
+    <BlogMahasiswa />
   </React.StrictMode>,
   document.getElementById('root')
 );
