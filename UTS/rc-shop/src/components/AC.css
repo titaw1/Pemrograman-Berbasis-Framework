@@ -1,0 +1,64 @@
+.ac_tita {
+    width:1297px;
+    margin:0 auto;
+    margin-bottom:10px;
+    margin-top: 20px;
+}
+
+.ac_tita table{
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 10px 30px 0px;
+  margin-top: 50px;
+  margin-left: 120px;
+}
+.jumbotron2{
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ac {
+    width: 412px;
+    padding: 20px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    margin-right:10px;
+    margin-left:10px;
+    display: inline-block;
+    box-sizing: border-box;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 10px 30px 0px;
+}
+
+.gambar-ac{
+    height: 80px;
+    width: 80px;
+    margin-right: 20px;
+    float:left;
+}
+
+.gambar-ac img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    margin-left: 150px;
+    margin-right: auto;
+}
+
+.konten-ac {
+    float:left;
+    width:100%;
+}
+
+.konten-ac div.judul-setrika {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.konten-ac .isi-setrika {
+    font-size: 16px;
+    margin-right:20px;
+    width:100%;
+    font-weight: bold
+}
+.btn{
+  width: 100%;
+}

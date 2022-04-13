@@ -1,0 +1,33 @@
+{
+  "keranjang": [
+    {
+      "id": 1,
+      "nama": "Changhong AC 1/2 PK CHOL-05L3 [INDOOR + OUTDOOR UNIT ONLY]",
+      "harga": 2479000,
+      "stok": 50,
+      "qty": 5
+    },
+    {
+      "id": 3,
+      "nama": "POLYTRON SMART Neuva Pro AC 1 PK PAC 09VZS - Unit Only",
+      "harga": 3099000,
+      "stok": 50,
+      "qty": 2
+    },
+    {
+      "id": 4,
+      "nama": "AC Samsung 1/2 PK AR 05 TGH Low Watt",
+      "harga": 2549000,
+      "stok": 50,
+      "qty": 2
+    },
+    {
+      "id": 2,
+      "nama": "LG AC 1/2 PK New Hercules - Turbo Cooling Auto Swing Ramah Lingkungan Daya Rendah - H05TN4",
+      "gambar": "https://cf.shopee.co.id/file/751080eef070e7dffb0454983484b634_tn",
+      "harga": 2519000,
+      "stok": 50,
+      "qty": 2
+    }
+  ]
+}
