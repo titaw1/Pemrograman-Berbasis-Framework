@@ -1,0 +1,23 @@
+{
+  "mahasiswa": [
+    {
+      "NIM": 1941720053,
+      "id": 1,
+      "nama": "Tita Wijayanti",
+      "alamat": "Jl. Soekarno Hatta No. 9 Malang",
+      "hp": "087384729147",
+      "angkatan": 2019,
+      "status": "aktif"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
